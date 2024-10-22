@@ -3,9 +3,10 @@ an API for a question &amp; answering bot used by chatwoot
 
 
 # Installation
-## Clone the Project
+## Clone the Project and Navigate to the Root Directory
 ```shell
-git clone [project_url]
+git clone https://github.com/phessabi/QA-API.git
+cd QA-API
 ```
 
 ## Get Requirements
